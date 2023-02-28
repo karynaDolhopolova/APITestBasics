@@ -1,4 +1,4 @@
-package models;
+package models.exchange;
 
 public class Exchange {
         public int r030;
